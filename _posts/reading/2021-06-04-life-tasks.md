@@ -1,6 +1,6 @@
 ---
 layout: post
-category: reading
+tags: reading
 title: 20 things absolutely worthwhile in life
 date: 2021-06-04
 ---
