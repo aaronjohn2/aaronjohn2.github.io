@@ -2,7 +2,7 @@
 layout: post
 title:  How to Write a Python Script to Change the MAC Address of a Network Interface
 date:   2019-02-23
-tags: Computer Science
+tags: Computer_Science
 author: "Aaron John"
 ---
 
