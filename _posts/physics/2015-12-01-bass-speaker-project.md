@@ -2,7 +2,7 @@
 layout: post
 title:  High-quality Bass From Small Speakers
 date:   2015-12-01
-category: physics
+tags: physics
 ---
 
 **A project by David Mohn and Aaron John.** In this report we discuss the route we took in designing and creating a small form factor speaker with a high amount of bass, without sacrificing sound quality.
