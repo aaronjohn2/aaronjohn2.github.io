@@ -2,7 +2,7 @@
 layout: post
 title:  Building a Fake Access Point and Using a Captive Portal to Get Login Credentials
 date:   2018-12-23
-category: computer_science
+tags: computer_science
 ---
 
 For this project I will presume that you have already cloned a captive portal of an open business network that you usually would see in airports, hotel lobbies, coffee shops, and other venues that offer free Wi-Fi hot spots. 
