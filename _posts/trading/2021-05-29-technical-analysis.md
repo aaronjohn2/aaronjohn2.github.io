@@ -1,6 +1,6 @@
 ---
 layout: post
-category: trading
+tags: trading
 title: Technical Analysis
 date: 2021-05-29
 ---
