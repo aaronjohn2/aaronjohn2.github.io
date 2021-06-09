@@ -3,7 +3,7 @@ title: Aaron John's Blog
 SEOTitle: Aaron John's Blog
 header-img: images/home-bg.jpg
 email: aaron2nj@gmail.com
-description: "Hi world~<br>I am a seeker, investor, engineer and an athlete."
+description: "Hi world~"
 keyword: "Aaron, John, Aaron John's Blog"
 url: "https://aaronjohn2.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -77,7 +77,7 @@ ga_domain: aaronjohn2.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Hi world~"
+sidebar-about-description: "Hi world~<br>I am a seeker, investor, engineer and an athlete."
 sidebar-avatar: /images/header.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
