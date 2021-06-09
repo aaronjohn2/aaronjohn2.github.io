@@ -2,7 +2,7 @@
 layout: post
 title:  How to Write MITM Scripts Using Python and Executing it With MITMproxy
 date:   2019-02-10
-category: computer_science
+tags: computer_science
 ---
 
 For this project we will analyze the flow of data and write our own script to intercept downloaded files and make a trojan out of the file that the target client is downloading.
