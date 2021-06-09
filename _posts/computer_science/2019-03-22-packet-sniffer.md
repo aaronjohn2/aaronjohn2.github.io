@@ -2,7 +2,7 @@
 layout: post
 title:  The Process of Building a Packet Sniffer Tool
 date:   2019-03-22
-category: computer_science
+tags: computer_science
 ---
 
 In this documentation, I will go through the process on how to write a Packet Sniffer tool in Python which can sniff (capture) data flowing through an interface, filter this data, and display information on terminal like: visited websites, usernames, passwords, images and files downloaded.
