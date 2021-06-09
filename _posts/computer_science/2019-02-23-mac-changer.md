@@ -2,7 +2,8 @@
 layout: post
 title:  How to Write a Python Script to Change the MAC Address of a Network Interface
 date:   2019-02-23
-tags: computer_science
+tags: Computer Science
+author: "Aaron John"
 ---
 
 A MAC address is a permanent, physical and unique address that is assigned to a network interface--by the device manufacturer. However, some people, like me, would like to increase anonymity, impersonate other devices, or even bypass filters. Hence, by changing the MAC address one can accomplish that.
