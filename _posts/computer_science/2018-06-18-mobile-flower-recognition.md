@@ -2,7 +2,8 @@
 layout: post
 title:  Flower Recognition - Implementing a Caffe Model on Swift
 date:   2018-06-18
-tags: computer_science
+author: "Aaron John"
+tags: Computer Science
 ---
 
 In this project I made a Flower Recognition app by implementing a pre-trained Convolutional Neural Network to classify with relative accuracy as to what flower is in the image that one has taken.
