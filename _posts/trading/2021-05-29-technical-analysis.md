@@ -1,8 +1,9 @@
 ---
 layout: post
-tags: trading
+tags: Trading
 title: Technical Analysis
 date: 2021-05-29
+author: "Aaron John"
 ---
 
 ![](/assets/trading/jeff.jpg)
