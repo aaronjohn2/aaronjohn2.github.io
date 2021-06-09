@@ -1,8 +1,9 @@
 ---
 layout: post
-tags: reading
+tags: Reading
 title: 20 things absolutely worthwhile in life
 date: 2021-06-04
+author: "Aaron John"
 ---
 
 Copied this from Quora onto my notes (in the past.) Author is unknown.
