@@ -108,6 +108,9 @@ friends: [
         title: "Andres The Designer",
         href: "https://andresthedesigner.webflow.io/"
     },{
+        title: "Mobile Takeoff",
+        href: "https://www.mobiletakeoff.com/about-us"
+    },{
         title: "The Nazarene Way",
         href: "https://www.thenazareneway.com/lords_prayer.htm"
     }
