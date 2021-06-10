@@ -6,4 +6,4 @@ This blog is used to organize my thoughts on mindfulness, strength and condition
 
 Feel free to send PRs or open issues to help maintain this blog: https://github.com/aaronjohn2/aaronjohn2.github.io
 
-![](images/quote.jpg)
+![](/assets/quote.jpg)
