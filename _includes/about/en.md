@@ -8,4 +8,5 @@ Feel free to send PRs or open issues to help maintain this blog: https://github.
 
 ![](/assets/quote.jpg)
 
-YouTube : ![](https://m.youtube.com/channel/UCXefjj0OBTh8foKemlgC7KQ)
+YouTube :
+![](https://m.youtube.com/channel/UCXefjj0OBTh8foKemlgC7KQ)
