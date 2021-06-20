@@ -47,7 +47,7 @@ Also, I strictly follow these rules:
 I use the following technical analysis:
 - Horizontal levels (find ranges and trade in it)
 - Trendlines (wedges)
-- Get confluence with fibs
+- Cycles and distribution
 - Candle stick patterns
 - Volume confirmation
 - Stop listening to anyone but my charts
