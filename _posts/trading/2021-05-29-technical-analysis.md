@@ -45,7 +45,7 @@ Also, I strictly follow these rules:
 - I take it!
 
 I use the following technical analysis:
-- Horizontal levels (find ranges and trade in it)
+- Break and hold levels (find ranges and trade in it)
 - Trendlines (wedges)
 - Cycles and distribution
 - Candle stick patterns
