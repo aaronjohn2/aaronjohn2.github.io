@@ -1,9 +1,9 @@
-Hi world~
+你好世界~
 
-I am a seeker, investor, engineer and an athlete.
+我是一名寻求者、投资者、工程师和运动员。
 
-This blog is used to organize my thoughts on mindfulness, strength and conditioning, cryptocurrency, trading and my reading/study notes.
+这个博客用于组织我对正念、力量和条件、加密货币、交易和我的阅读/学习笔记的想法。
 
-Feel free to send PRs or open issues to help maintain this blog: https://github.com/aaronjohn2/aaronjohn2.github.io
+随意发送 PR 或开放问题以帮助维护此博客: https://github.com/aaronjohn2/aaronjohn2.github.io
 
 ![](/assets/quote.jpg)
