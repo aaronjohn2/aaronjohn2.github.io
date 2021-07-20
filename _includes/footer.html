@@ -240,17 +240,17 @@
         // en
         if (lang == "en") {
             $select.selectedIndex = 1;
-            $en.style.display = "block";
-            $en.classList.add("active");
-            $zh.style.display = "none";
-            $zh.classList.remove("active");
-            // default to zh-cn
-        } else {
-            $select.selectedIndex = 0;
             $zh.style.display = "block";
             $zh.classList.add("active");
             $en.style.display = "none";
             $en.classList.remove("active");
+            // default to en-cn
+        } else {
+            $select.selectedIndex = 0;
+            $en.style.display = "block";
+            $en.classList.add("active");
+            $zh.style.display = "none";
+            $zh.classList.remove("active");
         }
         // interop with catalog
         generateCatalog(".catalog-body");
@@ -258,7 +258,7 @@
 
     // handle select change
     function onLanChange(index) {
-        if (index == 1) {
+        if (index == 0) {
             lang = "en"
         } else {
             lang = "zh"
