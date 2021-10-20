@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: trading
+tags: Trading
 title: Secret Tips for Trading
 date: 2021-10-20
 author: "Aaron John"
@@ -93,7 +93,7 @@ author: "Aaron John"
 - Here is my trick:
 - [x] Look at initial range of accumulation
 - [x] If momentum breaks range resistance with increase of Volume, then it's a confirmed breakout
-- [x] However, don't "Enter" straight away 
+- [x] However, don't "Enter" straight away
 - [x] wait for re-test at 20 EMA and "Enter"
 - [x] Stop loss at the breakout candle low
 - [x] Take Profits at very tall candles
