@@ -87,7 +87,7 @@ author: "Aaron John"
 
 ![](/assets/trading/ten.JPG)
 
-### 10. How to Trade Breakouts
+### 11. How to Trade Breakouts
 
 - Only 1 out of 10 Traders know how to trade the breakout properly
 - Here is my trick:
