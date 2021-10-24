@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: Trading
-title: Secret Tips for Trading
+title: Secret Tips for Trading Crypto
 date: 2021-10-20
 author: "Aaron John"
 ---
