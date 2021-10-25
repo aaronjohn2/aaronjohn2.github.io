@@ -100,8 +100,8 @@ How did I keep going after losing so much?
 - I did not want to go back to a normal job
 
 How did I get back up:
-- Turned of all external noice (opinions on social media- Twitter, Instagram, Facebook and Youtube)
-- I have endure the pain of listening to others
+- Turned of all external noise (opinions on social media- Twitter, Instagram, Facebook and Youtube)
+- I have endured the pain of listening to others
 - As a result, I have lost so much money
 - Don't listen to anyone, including me
 
