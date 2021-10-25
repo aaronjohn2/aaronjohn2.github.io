@@ -14,9 +14,9 @@ author: "Aaron John"
 - You need to build your own system, no one will help you there
 - Trading live is the only way to give your brain experience
 
-Complicated strategy won't work.
-High complication = No execution
-Strategy needs to be simple to execute.
+A complicated strategy won't work
+- High complication = No execution
+- Strategy needs to be simple to execute
 
 ### 2. Losses
 
