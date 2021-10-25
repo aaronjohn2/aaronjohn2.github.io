@@ -80,10 +80,12 @@ author: "Aaron John"
 - I'd rather sell the resistance, wait for it to flip into support before buying again, than end up losing a trade
 - Don't you?
 
-### 10. BTC.D
+### 10. Stop Loss
 
-- This chart will help you understand it's impact on the market in all scenarios
-- Zoom in and think about it
+- A lot of people can't wait to move SL into profit
+- The whales know that, and they'll be ready to eat up your liquidity
+- Do that ONLY after there's a new swing low/high confirmed
+- NEVER before. Got it?
 
 ![](/assets/trading/ten.JPG)
 
@@ -99,3 +101,10 @@ author: "Aaron John"
 - [x] Take Profits at very tall candles
 
 ![](/assets/trading/eleven.JPG)
+
+### 12. BTC.D
+
+- This chart will help you understand it's impact on the market in all scenarios
+- Zoom in and think about it
+
+![](/assets/trading/twelve.JPG)
