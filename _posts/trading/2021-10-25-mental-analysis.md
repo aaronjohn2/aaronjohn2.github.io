@@ -129,5 +129,5 @@ How did I get back up:
 1. "Find projects you will hold for life and keep buying."
 2. "Alts are for making big gains, Bitcoin is for keeping the gains!"
 
-- Final word:
+- Final statement:
 "If you put in the work and don't quit, you will be successful."
