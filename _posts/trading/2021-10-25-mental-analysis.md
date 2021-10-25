@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: Trading
-title: Mental Analysis on Trading Crypto
+title: My 2 Year Mental Analysis of Trading
 date: 2021-10-25
 author: "Aaron John"
 ---
