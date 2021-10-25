@@ -93,7 +93,7 @@ You can't be a good trader if you're not a calm person in general.
 
 ### 9. Inference
 
-June 2021, I lost over 80% of my gains.
+On June 2021, I lost over 80% of my gains.
 How did I keep going after losing so much?
 - I had no choice
 - I had given too much time to Trading
