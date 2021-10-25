@@ -105,7 +105,7 @@ How did I get back up:
 - As a result, I have lost so much money
 - Don't listen to anyone, including me
 
-### 9. Hints
+### 10. Hints
 
 - Make a trading plan; when and how will I trade?
 
