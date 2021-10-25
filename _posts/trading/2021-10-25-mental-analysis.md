@@ -130,4 +130,4 @@ How did I get back up:
 2. "Alts are for making big gains, Bitcoin is for keeping the gains!"
 
 - Final word:
-"If you put in the work and don't quit you will be successful."
+"If you put in the work and don't quit, you will be successful."
