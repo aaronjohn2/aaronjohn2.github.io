@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: Trading
-title: My 2 Year Mental Analysis in Trading
-date: 2021-10-20
+title: My 2 Year Mental Analysis of Trading
+date: 2021-10-25
 author: "Aaron John"
 ---
 
