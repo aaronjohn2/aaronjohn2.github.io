@@ -36,6 +36,13 @@ Remember, "A smooth sea never made a skilled sailor."
 Create money with a system and not with luck or gambling.
 Understand?
 
+- You WILL sometimes exit too early
+- Your winning trades will feel too small of a position size
+- It WILL happen over and over against
+
+Accept this misery.
+Get used to it.
+
 ### 4. Possibility
 
 - Remember, there's always a possibility that a set-up will fail, even if the chart looks good
@@ -64,13 +71,6 @@ Fearful = Too high of a position size
 - Not adapting to new information will cost you big money
 
 New rules all the time.
-
-- You WILL sometimes exit too early
-- Your winning trades will feel too small of a position size
-- It WILL happen over and over against
-
-Accept this misery.
-Get used to it.
 
 ### 7. Personality
 
