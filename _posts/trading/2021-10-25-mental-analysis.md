@@ -38,7 +38,7 @@ Understand?
 
 - You WILL sometimes exit too early
 - Your winning trades will feel too small of a position size
-- It WILL happen over and over against
+- It WILL happen over and over again
 
 Accept this misery.
 Get used to it.
