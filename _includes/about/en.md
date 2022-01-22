@@ -2,7 +2,7 @@ Hi world~
 
 I am a seeker, investor, engineer and an athlete.
 
-This blog is used to organize my thoughts on mindfulness, strength and conditioning, cryptocurrency, trading and my reading/study notes.
+This blog is used to organize my thoughts on mindfulness, strength and conditioning, trading crypto and my reading/study notes.
 
 Currently, I focus on projects that keep me in a constant state of <a href="https://en.wikipedia.org/wiki/Flow_(psychology)" target="_blank" rel="noopener noreferrer">Flow</a>.
 
