@@ -91,16 +91,9 @@ You can't be a good trader if you're not a calm person in general.
 - There's no good coin or bad coin
 - Trade coins that make you money and forget the opinion of others
 
-### 9. Inference
+### 9. Important
 
-On June 2021, I lost over 80% of my gains.
-How did I keep going after losing so much?
-- I had no choice
-- I had given too much time to Trading
-- I did not want to go back to a normal job
-
-How did I get back up:
-- Turned off all external noise (opinions on social media - Twitter, Instagram, Facebook and Youtube)
+- Turn off all external noise (opinions on social media - Twitter, Instagram, Facebook and Youtube)
 - I have endured the pain of listening to others
 - As a result, I have lost so much money
 - Don't listen to anyone, including me
