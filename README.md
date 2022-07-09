@@ -1,3 +1,3 @@
 #### Aaron John's Blog ✨
 
-Aaron uses this repo to organize his thoughts on mindfulness, strength and conditioning, cryptocurrency, trading and computer science.
+Aaron uses this repo to organize his thoughts on mindfulness and his reading/study notes.
