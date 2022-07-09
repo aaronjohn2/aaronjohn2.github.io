@@ -8,6 +8,6 @@
 
 我对编码、弹钢琴、冲浪、举重和音乐充满热情。
 
-随意发送 PR 或开放问题以帮助维护此博客: https://github.com/aaronjohn2/aaronjohn2.github.io
+随时发送拉取请求或打开问题以帮助维护此博客: https://github.com/aaronjohn2/aaronjohn2.github.io
 
 ![](/assets/quote.jpg)
