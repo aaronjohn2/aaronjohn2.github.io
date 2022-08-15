@@ -1,2 +1,3 @@
-_posts/trading
-assets/trading
+node_modules
+.DS_Store
+dist
