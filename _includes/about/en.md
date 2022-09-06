@@ -1,8 +1,8 @@
 Hi world~
 
-I am a seeker, investor, engineer and an athlete.
+I am a seeker, engineer and athlete. 
 
-This blog is used to organize my thoughts on mindfulness and my reading/study notes.
+This blog organises my thoughts on mindfulness and my reading/study notes.
 
 Currently, I focus on projects that keep me in a constant state of <a href="https://en.wikipedia.org/wiki/Flow_(psychology)" target="_blank" rel="noopener noreferrer">Flow</a>.
 
