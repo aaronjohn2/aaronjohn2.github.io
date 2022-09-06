@@ -104,8 +104,5 @@ friends: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
-    # },{
-        title: "Aaron's Logbook",
-        href: "https://aaronserver.web.app/"
-    }
+    # }
 ]
