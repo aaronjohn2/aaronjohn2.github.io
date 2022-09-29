@@ -6,7 +6,7 @@ This blog organises my thoughts on mindfulness and my reading/study notes.
 
 Currently, I focus on projects that keep me in a constant state of <a href="https://en.wikipedia.org/wiki/Flow_(psychology)" target="_blank" rel="noopener noreferrer">Flow</a>.
 
-I am passionate about <a href="https://github.com/aaronjohn2" target="_blank" rel="noopener noreferrer">coding</a>, snow, nutrition, lifting weights and music.
+I am passionate about coding, snow, nutrition, lifting weights and music.
 
 Feel free to send pull requests or open issues to help maintain this blog: https://github.com/aaronjohn2/aaronjohn2.github.io
 
