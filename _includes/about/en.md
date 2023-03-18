@@ -1,6 +1,6 @@
 Hi world~
 
-I am a christian, engineer and athlete. 
+I am a Christian, Engineer and Athlete. 
 
 This blog organises my thoughts on mindfulness and my reading/study notes.
 
