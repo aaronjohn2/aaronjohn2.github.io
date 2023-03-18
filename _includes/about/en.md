@@ -1,6 +1,6 @@
 Hi world~
 
-I am a seeker, engineer and athlete. 
+I am a christian, engineer and athlete. 
 
 This blog organises my thoughts on mindfulness and my reading/study notes.
 
