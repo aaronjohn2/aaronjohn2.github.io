@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-linkedin_username:  aaronjohn2
 github_username:    aaronjohn2
+#linkedin_username:  aaronjohn2
 #twitter_username:   Aaron...
 #facebook_username:  aaron...
 #linkedin_username:  firstname-lastname-idxxxx
